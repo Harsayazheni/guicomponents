@@ -11,7 +11,11 @@ To create an application that uses GUI Components with Fonts and Colors using An
 Latest Version Android Studio
 
 ## ALGORITHM:
-
+1.Start a new project in Android Studio.
+2.Design a simple layout(.xml File).
+3.Inside MainActivity.java , create the button function
+4.Create button for colors and fonts while clicking color or font button should change the color and font.
+5.Display corresponding changes in application.
 
 ## PROGRAM:
 ```
