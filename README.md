@@ -14,11 +14,13 @@ Latest Version Android Studio
 
 
 ## PROGRAM:
+```
 /*
 Program to print the text “GUIcomponent”.
 Developed by: Harsayazheni P Y
 Registeration Number : 212222040052
 */
+```
 ### In activitymain.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
